@@ -2,7 +2,7 @@
 salut!  
 je m'appelle Priscilla MANEDJI NGOUANA  
 J'ai 28 ans et actuellement étudiante en TSSR à la [Wide Code School](https://www.wildcodeschool.com)  
-![logo](https://github.com/priscilla991/mon-cv-tssr/blob/653553336f164633c86b6ebb118c9c165ae6f798/wdc.png)     
+![photo](https://github.com/priscilla991/mon-cv-tssr/blob/main/ma%20photo.jpeg?raw=true)     
 Je réside au 7 impasses de la station 91440 Bures-sur-Yvettes  
 
 **FORMATION**  
